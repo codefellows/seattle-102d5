@@ -1,0 +1,39 @@
+* {
+  /* border: 1px solid black; */
+}
+
+body {
+  width: 960px;
+  margin: 0px auto;
+  background-color: blue;
+}
+
+/* the area below styles body>header */
+header {
+  height: 200px;
+  /* width: 50%;
+  margin: 0px auto; */
+}
+
+#main-header {
+  width: 50%;
+  margin: 0px auto;
+  text-align: center;
+}
+
+.menu {
+  list-style: none;
+  width: 100px;
+  display: inline-block;
+}
+
+header nav {
+  color: aqua;
+  width: 50%;
+}
+
+/* the area below styles body>main */
+img {
+border: 10px dashed red;
+border-radius: 50px;
+}
